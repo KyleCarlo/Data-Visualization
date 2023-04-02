@@ -1,0 +1,403 @@
+ISO3,Country / Territory,Year,Event Name,Date of Event (start),Disaster Internal Displacements,Hazard Category,Hazard Type,Hazard Sub Type
+PHL,Philippines,2017,"China, malaysia, philippines, thailand, vietnam: typhoon doksuri - 11/9/2017",2017-09-11,41000,Weather related,Storm,"Storm, tropical, typhoon"
+PHL,Philippines,2017,"China, taiwan, philippines: typhoon nesat (gorio) / tropical depression haitang / southwest monsoon - 25/7/2017",2017-07-25,1800,Weather related,Storm,"Storm, tropical, cyclone"
+PHL,Philippines,2016,Marikina landslide,2016-09-25,50,Geophysical,Dry mass movement,
+PHL,Philippines,2016,Region ii monsoon rains,2016-12-30,70,Geophysical,Dry mass movement,
+PHL,Philippines,2016,Strong wind,2016-04-25,300,Weather related,Storm,
+PHL,Philippines,2016,Typhoon megi,2016-09-22,2600,Weather related,Storm,
+PHL,Philippines,2016,Typhoon nepartak,2016-07-02,22000,Weather related,Storm,
+PHL,Philippines,2016,Typhoon haima,2016-10-14,2377000,Weather related,Storm,
+PHL,Philippines,2016,Typhoon sarika,2016-10-13,208000,Weather related,Storm,
+PHL,Philippines,2008,,2008-04-09,350000,Weather related,Flood,Flood
+PHL,Philippines,2008,,2008-12-02,206000,Weather related,Flood,Flood
+PHL,Philippines,2008,,2008-01-01,2039000,Weather related,Storm,Storm
+PHL,Philippines,2008,,2008-06-09,12000,Weather related,Wet mass movement,Wet mass movement
+PHL,Philippines,2008,,2008-05-18,55000,Weather related,Storm,Storm
+PHL,Philippines,2008,,2008-07-18,3100,Weather related,Storm,Storm
+PHL,Philippines,2008,,2008-01-12,51000,Weather related,Flood,Flood
+PHL,Philippines,2008,,2008-07-28,440,Weather related,Storm,Storm
+PHL,Philippines,2008,,2008-08-22,3500,Weather related,Storm,Storm
+PHL,Philippines,2008,,2008-11-21,30000,Weather related,Flood,Flood
+PHL,Philippines,2008,,2008-09-22,5200,Weather related,Storm,Storm
+PHL,Philippines,2009,Typhoon morakot (kiko),2009-01-01,35000,Weather related,Storm,Storm
+PHL,Philippines,2009,Topical storm 'feria' (nangka),2009-01-01,63000,Weather related,Storm,Storm
+PHL,Philippines,2009,,2009-01-01,100,Weather related,Storm,Storm
+PHL,Philippines,2009,Tropical storm 'ondoy' (ketsana),2009-01-01,561000,Weather related,Storm,Storm
+PHL,Philippines,2009,Typhoon 'pepeng' (parma),2009-01-01,500000,Weather related,Storm,Storm
+PHL,Philippines,2009,Goni (jolina),2009-01-01,20000,Weather related,Storm,Storm
+PHL,Philippines,2009,,2009-01-01,200000,Weather related,Flood,Flood
+PHL,Philippines,2009,Tropical storm 'auring',2009-01-01,200000,Weather related,Storm,Storm
+PHL,Philippines,2009,Typhoon  'emong' (chanom),2009-01-01,117000,Weather related,Storm,Storm
+PHL,Philippines,2009,Tropical storm 'mirinae' (santi),2009-01-01,115000,Weather related,Storm,Storm
+PHL,Philippines,2009,Typhoon 'dante' (kujira),2009-01-01,55000,Weather related,Storm,Storm
+PHL,Philippines,2009,Tropical depression 'maring' (mujigae),2009-01-01,41000,Weather related,Storm,Storm
+PHL,Philippines,2009,Tropical storm 'isang' (molave),2009-01-01,7300,Weather related,Storm,Storm
+PHL,Philippines,2009,Tropical storm labuyo (dujuan),2009-01-01,1500,Weather related,Storm,Storm
+PHL,Philippines,2010,,2010-01-01,33000,Weather related,Flood,Flood
+PHL,Philippines,2010,,2010-01-01,384000,Weather related,Flood,Flood
+PHL,Philippines,2010,Typhoon megi (juan),2010-01-01,150000,Weather related,Storm,Storm
+PHL,Philippines,2010,Typhoon conson (basyang),2010-01-01,137000,Weather related,Storm,Storm
+PHL,Philippines,2010,,2010-01-01,80000,Weather related,Flood,Flood
+PHL,Philippines,2010,,2010-01-01,68000,Weather related,Flood,Flood
+PHL,Philippines,2010,,2010-01-01,48000,Weather related,Flood,Flood
+PHL,Philippines,2010,,2010-01-01,40000,Weather related,Flood,Flood
+PHL,Philippines,2010,,2010-01-01,40000,Weather related,Flood,Flood
+PHL,Philippines,2010,,2010-01-01,20000,Weather related,Flood,Flood
+PHL,Philippines,2010,,2010-01-01,1200,Weather related,Flood,Flood
+PHL,Philippines,2010,,2010-01-01,590,Weather related,Flood,Flood
+PHL,Philippines,2011,Typhoon quiel (nalgae),2011-01-01,144000,Weather related,Storm,Storm
+PHL,Philippines,2011,,2011-01-01,14000,Weather related,Flood,Flood
+PHL,Philippines,2011,,2011-01-01,25000,Weather related,Flood,Flood
+PHL,Philippines,2011,Tropical storm washi (sendong),2011-01-01,441000,Weather related,Storm,Storm
+PHL,Philippines,2011,,2011-01-01,4000,Weather related,Flood,Flood
+PHL,Philippines,2011,,2011-01-01,9100,Weather related,Flood,Flood
+PHL,Philippines,2011,,2011-01-01,6100,Weather related,Flood,Flood
+PHL,Philippines,2011,,2011-01-01,72000,Weather related,Flood,Flood
+PHL,Philippines,2011,,2011-01-01,28,Weather related,Flood,Flood
+PHL,Philippines,2011,Topical storm juaning (nock-ten),2011-01-01,151000,Weather related,Storm,Storm
+PHL,Philippines,2011,Typhoon 'kabayan' (muifa),2011-01-01,14000,Weather related,Storm,Storm
+PHL,Philippines,2011,Typhoon bebeng (aere),2011-01-01,91000,Weather related,Storm,Storm
+PHL,Philippines,2011,Typhoon pedring (nesat),2011-01-01,168000,Weather related,Storm,Storm
+PHL,Philippines,2011,Topical storm 'meari' (falcon),2011-01-01,213000,Weather related,Storm,Storm
+PHL,Philippines,2011,Tropical storm ramon (banyan),2011-01-01,18000,Weather related,Storm,Storm
+PHL,Philippines,2011,Typhoon mina (nanmadol),2011-01-01,227000,Weather related,Storm,Storm
+PHL,Philippines,2011,,2011-01-01,672000,Weather related,Flood,Flood
+PHL,Philippines,2011,Typhoon chedeng (songda),2011-01-01,226000,Weather related,Storm,Storm
+PHL,Philippines,2012,,2012-01-01,60000,Weather related,Storm,Storm
+PHL,Philippines,2012,,2012-01-01,1553000,Weather related,Flood,Flood
+PHL,Philippines,2012,,2012-01-01,1932000,Weather related,Storm,Storm
+PHL,Philippines,2012,,2012-01-01,55000,Weather related,Storm,Storm
+PHL,Philippines,2014,Typhoon rammasun (local name: glenda),2014-07-15,2994000,Weather related,Storm,Storm
+PHL,Philippines,2014,Tropical storm lingling (local name: agaton),2014-01-17,400000,Weather related,Storm,Storm
+PHL,Philippines,2014,Tropical storm fung-wong (local name: mario),2014-09-19,206000,Weather related,Storm,Storm
+PHL,Philippines,2014,Tropical storm jangmi (local name: seniang),2014-12-29,156000,Weather related,Storm,Storm
+PHL,Philippines,2014,Floods caused by tropical storm sinlaku (local name: queenie),2014-11-26,7300,Weather related,Flood,Flood
+PHL,Philippines,2014,Typhoon kalmaegi (local name: luis),2014-09-12,77000,Weather related,Storm,Storm
+PHL,Philippines,2014,Flood following caloy depression,2014-03-19,1600,Weather related,Flood,Flood
+PHL,Philippines,2014,Typhoon hagupit (local name: ruby),2014-12-06,1823000,Weather related,Storm,Storm
+PHL,Philippines,2014,"Mindanao, north cotabato and maguindanao province flood",2014-08-30,730,Weather related,Flood,Flood
+PHL,Philippines,2014,Tropical storm kajiki (local name: basyang),2014-01-30,18000,Weather related,Storm,Storm
+PHL,Philippines,2014,Southwest monsoon habagat enhanced by typhoon halong (local name: josé),2014-08-05,6500,Weather related,Storm,Storm
+PHL,Philippines,2014,Intertropical convergence zone (itcz),2014-10-07,46000,Weather related,Storm,Storm
+PHL,Philippines,2015,Effects of inter-tropical convergence zone,2015-07-30,920,Weather related,Storm,"Storm, inter-tropical convergence zone"
+PHL,Philippines,2015,Typhoon mujigae (local name: kabayan),2015-10-01,22000,Weather related,Storm,"Storm, tropical, typhoon"
+PHL,Philippines,2015,Storm linfa (local name: egay),2015-07-04,45000,Weather related,Storm,"Storm, tropical"
+PHL,Philippines,2015,Typhoon chedeng (local name: maysak),2015-04-04,2800,Weather related,Storm,"Storm, tropical, typhoon"
+PHL,Philippines,2015,Mindanao floods (jun-jul),2015-06-23,3800,Weather related,Flood,Flood
+PHL,Philippines,2015,Northeast monsoon,2015-12-20,4800,Weather related,Storm,Monsoon
+PHL,Philippines,2015,Typhoon  noul (local name: dodong),2015-05-10,3800,Weather related,Storm,"Storm, tropical, typhoon"
+PHL,Philippines,2015,Southwest monsoon,2015-07-07,5500,Weather related,Storm,"Storm, tropical, typhoon"
+PHL,Philippines,2015,Typhoon koppu (local name: lando),2015-10-14,938000,Weather related,Storm,"Storm, tropical, typhoon"
+PHL,Philippines,2015,Tropical depression onyok,2015-12-16,18000,Weather related,Storm,"Storm, tropical, depression"
+PHL,Philippines,2015,Typhoon goni (local name: ineng),2015-08-18,318000,Weather related,Storm,"Storm, tropical, typhoon"
+PHL,Philippines,2015,Typhoon melor (local name: nona),2015-12-14,743000,Weather related,Storm,"Storm, tropical, typhoon"
+PHL,Philippines,2015,Tropical cyclone mekkhala (local name: amang),2015-01-15,115000,Weather related,Storm,"Storm, tropical"
+PHL,Philippines,2017,Japan; philippines: typhoon lan (paolo) - 15/10/2017,2017-10-15,130000,Weather related,Storm,"Storm, tropical, cyclone"
+PHL,Philippines,2013,Tropical depression shanshan (local name: crising),2013-02-18,223000,Weather related,Storm,Storm
+PHL,Philippines,2013,Paniqui tornado,2013-05-03,1100,Weather related,Storm,Storm
+PHL,Philippines,2013,Zamboanga del norte flood,2013-01-31,9500,Weather related,Flood,Flood
+PHL,Philippines,2013,Typhoon nari (local name. santi),2013-10-08,406000,Weather related,Storm,Storm
+PHL,Philippines,2013,Typhoon trami (local name: maring),2013-08-18,1539000,Weather related,Storm,Storm
+PHL,Philippines,2013,Zamboanga del sur tornado,2013-05-29,40,Weather related,Storm,Storm
+PHL,Philippines,2013,Typhoon haiyan (local name: yolanda),2013-11-08,4095000,Weather related,Storm,Storm
+PHL,Philippines,2013,Passi city tornado,2013-04-27,45,Weather related,Storm,Storm
+PHL,Philippines,2013,Typhoon utor (local name: labuyo),2013-08-09,129000,Weather related,Storm,Storm
+PHL,Philippines,2013,Palawan flood,2013-11-05,27,Weather related,Flood,Flood
+PHL,Philippines,2013,Southwest monsoon and low pressure area (lpa),2013-06-16,840,Weather related,Storm,Storm
+PHL,Philippines,2013,Tropical depression bising causing flash floods and landlsides,2013-01-08,7900,Weather related,Storm,Storm
+PHL,Philippines,2013,Tropical storm auring causing flash floods,2013-01-06,9900,Weather related,Storm,Storm
+PHL,Philippines,2013,Intertropical convergence zone (itcz),2013-05-24,3500,Weather related,Flood,Flood
+PHL,Philippines,2013,Intertropical convergence zone effects,2013-10-04,124000,Weather related,Storm,Storm
+PHL,Philippines,2013,New corella landslide,2013-02-17,700,Weather related,Wet mass movement,Wet mass movement
+PHL,Philippines,2013,Tropical storm wutip (l.n. paolo) enhancing southwest monsoon,2013-08-18,65000,Weather related,Storm,Storm
+PHL,Philippines,2013,Davao del sur landslide,2013-02-23,100,Weather related,Wet mass movement,Wet mass movement
+PHL,Philippines,2013,Iloilo tornado,2013-11-04,150,Weather related,Storm,Storm
+PHL,Philippines,2013,Typhoon usagi (l.n. odette),2013-09-16,56000,Weather related,Storm,Storm
+PHL,Philippines,2013,Casigura landslide,2013-12-11,53,Weather related,Wet mass movement,Wet mass movement
+PHL,Philippines,2013,Tropical storm rumbia (l.n. gorio),2013-06-27,220,Weather related,Storm,Storm
+PHL,Philippines,2009,,2009-01-01,10,Geophysical,Earthquake,Earthquake
+PHL,Philippines,2017,Leyte earthquake (6 july),2017-07-06,16000,Geophysical,Earthquake,Earthquake
+PHL,Philippines,2017,"Malaysia, philippines: tropical depression urduja / kai-tak - 12/12/2017",2017-12-11,764000,Weather related,Storm,"Storm, tropical, cyclone"
+PHL,Philippines,2017,"Philippines: earthquake - glan, sarangani - 29/4/2017",2017-04-29,18,Geophysical,Earthquake,Earthquake
+PHL,Philippines,2017,Philippines: earthquake - surigao city (caraga) - 10/2/2017,2017-02-10,55000,Geophysical,Earthquake,Earthquake
+PHL,Philippines,2017,"Philippines, vietnam: typhoon vinta / tembin - december 2017",2017-12-22,435000,Weather related,Storm,"Storm, tropical, cyclone"
+PHL,Philippines,2016,Typhoon nida,2016-07-29,8400,Weather related,Storm,
+PHL,Philippines,2017,Victoria and oriental mindoro floods,2017-01-03,390,Weather related,Flood,Flood
+PHL,Philippines,2016,Southwest monsoon/ habagat season floods,2016-08-08,528000,Weather related,Flood,
+PHL,Philippines,2016,Typhoon meranti,2016-09-09,17000,Weather related,Storm,
+PHL,Philippines,2016,Flash flood - m'lang,2016-12-13,88,Weather related,Flood,
+PHL,Philippines,2016,Cold front - eastern visayas,2016-12-16,66,Weather related,Extreme temperature,
+PHL,Philippines,2016,Flash flood - barangay sumbakil,2016-10-11,13,Weather related,Flood,
+PHL,Philippines,2016,Flash flood - kalamansig,2016-11-05,340,Weather related,Flood,
+PHL,Philippines,2016,Flooding - sultan mastura,2016-08-06,1400,Weather related,Flood,
+PHL,Philippines,2016,Flash flood - matalam,2016-06-27,2100,Weather related,Flood,
+PHL,Philippines,2016,Flooding - valencia city,2016-06-24,140,Weather related,Flood,
+PHL,Philippines,2016,Forest and grass fire,2016-04-02,94,Weather related,Wildfire,
+PHL,Philippines,2016,"Eastern, northern, and western samar flash flood",2016-12-16,80000,Weather related,Flood,
+PHL,Philippines,2016,Typhoon nock-ten (locally known as: nina),2016-12-23,2592000,Weather related,Storm,
+PHL,Philippines,2008,,2008-06-11,1200,Weather related,Storm,Storm
+PHL,Philippines,2009,Tropical storm 'soudelor' (gorio),2009-01-01,81000,Weather related,Storm,Storm
+PHL,Philippines,2015,Mt bulusan eruption,2015-05-06,570,Geophysical,Volcanic activity,Volcanic eruption
+PHL,Philippines,2011,,2011-01-01,2300,Weather related,Flood,Flood
+PHL,Philippines,2012,,2012-01-01,71000,Weather related,Storm,Storm
+PHL,Philippines,2012,,2012-01-01,187000,Geophysical,Earthquake,Earthquake
+PHL,Philippines,2013,Bohol earthquake,2013-10-15,349000,Geophysical,Earthquake,Earthquake
+PHL,Philippines,2013,Carmen earthquake,2013-06-01,2600,Geophysical,Earthquake,Earthquake
+PHL,Philippines,2016,Sultan kudarat flash flood,2016-11-06,630,Weather related,Flood,
+PHL,Philippines,2016,Sinkhole - polomolok,2016-07-28,620,Weather related,Wet mass movement,
+PHL,Philippines,2016,Flash flood - zamboanga del norte,2016-12-08,13000,Weather related,Flood,
+PHL,Philippines,2016,Tropical cyclone tokage (local name: marce),2016-11-23,77000,Weather related,Storm,
+PHL,Philippines,2009,,2009-01-01,16000,Weather related,Flood,Flood
+PHL,Philippines,2017,Philippines: floods - maguindanao - 5/5/2017,2017-05-05,321000,Weather related,Flood,Flood
+PHL,Philippines,2017,Philippines: flood - cotabato city - 15/7/2017,2017-07-15,2600,Weather related,Flood,Riverine flood
+PHL,Philippines,2017,Philippines: tropical depression haikui / salome - 9/11/2017,2017-11-09,2300,Weather related,Storm,"Storm, tropical, cyclone"
+PHL,Philippines,2017,"Philippines: floods - isabela, cagayan - 5/11/2017",2017-11-05,35000,Weather related,Flood,Flood
+PHL,Philippines,2017,Philippines: floods - region ix - 15/10/2017,2017-10-15,35000,Weather related,Flood,Flood
+PHL,Philippines,2017,"Philippines: storm surge -  region ix, sulu and tawi-tawi (armm) - 15/10/2017",2017-10-15,11000,Weather related,Storm,"Storm, storm surge"
+PHL,Philippines,2017,North cotabato floods,2017-06-03,24000,Weather related,Flood,Flood
+PHL,Philippines,2017,General santos city flash flood,2017-03-28,5300,Weather related,Flood,Flash flood
+PHL,Philippines,2017,Polomolok flash floods,2017-05-17,150,Weather related,Flood,Flash flood
+PHL,Philippines,2017,"Rosales, pangasinan tornado",2017-04-26,140,Weather related,Storm,Tornado
+PHL,Philippines,2017,Hong-kong/taiwan/china; philippines - typhoon khanun (odette) - 11/10/2017,2017-10-11,6400,Weather related,Storm,"Storm, tropical, typhoon"
+PHL,Philippines,2017,"Philippines: tropical depression auring - caraga, region vii - 07/01/2017",2017-01-07,43000,Weather related,Storm,"Storm, convective"
+PHL,Philippines,2017,Mabini and batangas earthquake,2017-04-08,30000,Geophysical,Earthquake,Earthquake
+PHL,Philippines,2017,Tropical depression crising,2017-04-14,6800,Weather related,Storm,"Storm, convective"
+PHL,Philippines,2017,Negros occidental tornado,2017-06-15,240,Weather related,Storm,Tornado
+PHL,Philippines,2017,Philippines: earthquake - lanao del sur - 24/9/2017,2017-09-24,240,Geophysical,Earthquake,Earthquake
+PHL,Philippines,2017,Sultan kudarat floods,2017-06-03,11000,Weather related,Flood,Flood
+PHL,Philippines,2017,"Philippines: landslide - davao city, region xi - 6/10/2017",2017-10-05,190,Geophysical,Dry mass movement,"Mass movement, landslide"
+PHL,Philippines,2017,Philippines: landslide - boljoon - 27/10/2017,2017-10-27,180,Geophysical,Dry mass movement,"Mass movement, landslide"
+PHL,Philippines,2017,Palawan landslide,2017-05-29,220,Geophysical,Dry mass movement,"Mass movement, landslide"
+PHL,Philippines,2017,Philippines - flash flood - zamboanga sibugay province - 27/7/2017,2017-07-27,15000,Weather related,Flood,Flash flood
+PHL,Philippines,2017,Leyte landslide (6 july),2017-07-06,900,Geophysical,Dry mass movement,"Mass movement, landslide"
+PHL,Philippines,2017,Philippines: flood - davao city - 11/9/2017,2017-09-11,90,Weather related,Flood,Flood
+PHL,Philippines,2017,Philippines: earthquake - leyte - 23/8/2017,2017-08-23,5,Geophysical,Earthquake,Earthquake
+PHL,Philippines,2017,"Philippines: floods - negros occidental, western visayas - 22/9/2017",2017-09-22,8000,Weather related,Flood,Flood
+PHL,Philippines,2017,Philippines: flashflood - south cotabato - 2/10/2017,2017-10-02,27,Weather related,Flood,Flash flood
+PHL,Philippines,2017,Philippines: continuous rain - caraga - 18/10/2017,2017-10-18,79,Weather related,Storm,Storm
+PHL,Philippines,2017,Typhoon pakhar - 24/8/2017,2017-08-24,8200,Weather related,Storm,"Storm, tropical, typhoon"
+PHL,Philippines,2017,Lanao del sur earthquake - 12/4/2017,2017-04-12,230,Geophysical,Earthquake,Earthquake
+PHL,Philippines,2017,Philippines: flash floods - glan/sarangani - 13/5/2017,2017-05-13,140,Weather related,Flood,Flash flood
+PHL,Philippines,2017,Philippines: floods - visayas; mindanao - 15/01/2017,2017-01-15,518000,Weather related,Flood,Flood
+PHL,Philippines,2018,Philippines: tropical depression usman - 28/12/2018,2018-12-28,98000,Weather related,Storm,"Storm, tropical, cyclone"
+PHL,Philippines,2018,Philippines: earthquake - manay davao oriental - 8/9/2018,2018-09-08,4,Geophysical,Earthquake,Earthquake
+PHL,Philippines,2018,"Cambodia, laos, thailand, philippines, vietnam: southwest monsoon (habagat) / tropical cyclone son-tinh / henry / josie - 15/7/2018",2018-07-15,902000,Weather related,Storm,"Storm, tropical, cyclone"
+PHL,Philippines,2018,"Philippines: southwest monsoon (ts karding-yagi / ts leepi / td rumbia / ts soulik / typhoon cimaron) - ncr, region i, region iii, calabarzon, car - 12/8/2018",2018-08-12,184000,Weather related,Storm,"Storm, tropical"
+PHL,Philippines,2018,"China, guam, northern mariana islands, philippines, thailand: typhoon mangkhut - 7/9/2018",2018-09-07,1571000,Weather related,Storm,"Storm, tropical, typhoon"
+PHL,Philippines,2018,"Guam, northern mariana islands, philippines: super typhoon yutu - 24/10/2018",2018-10-24,439000,Weather related,Storm,"Storm, tropical, typhoon"
+PHL,Philippines,2018,Philippines: landslide - eastern samar - 27/11/2018,2018-11-27,350,Weather related,Wet mass movement,"Landslide, avalanche"
+PHL,Philippines,2018,"Vietnam, philippines: tropical cyclone 33w / tropical storm usagi / tropical depression samuel - 13/11/2018",2018-11-13,32000,Weather related,Storm,"Storm, tropical, cyclone"
+PHL,Philippines,2018,Philippines: tropical storm basyang / sanba - 11/2/2018,2018-02-11,149000,Weather related,Storm,"Storm, tropical"
+PHL,Philippines,2018,Philippines: landslide - jipapad (eastern samar) - 27/11/2018,2018-11-27,350,Weather related,Wet mass movement,"Landslide, avalanche"
+PHL,Philippines,2018,Philippines: flooding - maguindanao (armm) - 2/6/2018,2018-06-02,200000,Weather related,Flood,Flood
+PHL,Philippines,2018,Philippines: landslide - naga - cebu (region vii) - 20/9/2018,2018-09-20,7400,Weather related,Wet mass movement,"Landslide, avalanche"
+PHL,Philippines,2018,Philippines: tropical depression agaton - 1/1/2018,2018-01-01,47000,Weather related,Storm,"Storm, tropical"
+PHL,Philippines,2018,"Philippines: cold front - region vi, viii, x, xi - 14/1/2018",2018-01-14,26000,Weather related,Flood,Flood
+PHL,Philippines,2018,Philippines: landslide - capiz (region vi) - 15/1/2018,2018-01-15,170,Weather related,Wet mass movement,"Landslide, avalanche"
+PHL,Philippines,2018,Philippines: flash flood - polomok (south cotabato) - 3/2/2018,2018-02-03,260,Weather related,Flood,Flash flood
+PHL,Philippines,2018,Philippines: flood - sultan kudarat - 13/7/2018,2018-07-13,15000,Weather related,Flood,Flood
+PHL,Philippines,2018,Philippines: southwest monsoon (habagat) - mindanao - 12/7/2018,2018-07-12,420,Weather related,Storm,Storm
+PHL,Philippines,2018,Philippines: earthquake - bukidnon (north mindanao) - 15/3/2018,2018-03-15,150,Geophysical,Earthquake,Earthquake
+PHL,Philippines,2018,"Philippines: southwest monsoon (enhanced by td luis) - region 1, car - 25/8/2018",2018-08-25,7700,Weather related,Storm,"Storm, tropical"
+PHL,Philippines,2018,"Philippines: flash flood - kabacan, north cotabato (region xii) - 30/6/2018",2018-06-30,17000,Weather related,Flood,Flash flood
+PHL,Philippines,2018,Philippines: tornado/whirlwind - valencia city (bukidnon) - 30/4/2018,2018-04-30,73,Weather related,Storm,Tornado
+PHL,Philippines,2018,"Philippines: rogue wave - general santos, south cotabato (region xii) - 25/12/2018",2018-12-25,170,Weather related,Wet mass movement,"Wave action, rogue wave"
+PHL,Philippines,2018,Philippines: flood - datu montawal (maguindanao) - 23/10/2018,2018-10-23,14000,Weather related,Flood,Flood
+PHL,Philippines,2018,"Philippines: southwest monsoon (incl. tropical depression ""domeng"" / maliksi) - 5/6/2018",2018-06-05,1500,Weather related,Storm,"Storm, tropical"
+PHL,Philippines,2019,Philippines: flash flood - davao (davao oriental) - 22/01/2019,2019-01-22,106000,Weather related,Flood,Flash flood
+PHL,Philippines,2019,Philippines: rogue waves - davao - 4/8/2019,2019-08-04,3400,Weather related,Wet mass movement,"Wave action, rogue wave"
+PHL,Philippines,2019,Philippines: earthquake - mindanao (bukidnon) - 18/11/2019,2019-11-18,1900,Geophysical,Earthquake,Earthquake
+PHL,Philippines,2019,"Philippines: tropical depression kalmaegi (locally ""ramon"") - cagayan valley, car, bicol - 12/11/2019",2019-11-12,28000,Weather related,Storm,"Storm, tropical, cyclone"
+PHL,Philippines,2019,"Philippines: tropical depression ""kabayan"" - ilocos norte - 1/9/2019",2019-09-01,27,Weather related,Storm,"Storm, tropical"
+PHL,Philippines,2019,Philippines: flash flood - pantukan (compostela valley) - 13/8/2019,2019-08-13,32000,Weather related,Flood,Flash flood
+PHL,Philippines,2019,Guam (usa); philippines: typhoon kammuri (locally named tisoy) - 26/11/2019,2019-11-24,1424000,Weather related,Storm,"Storm, tropical, typhoon"
+PHL,Philippines,2019,Philippines: flash flood - lutayan (sultan kudarat) - 22/7/2019,2019-07-22,1100,Weather related,Flood,Flash flood
+PHL,Philippines,2019,Philippines: flooding - maguindanao (datu salibo; sultan sa barongis) - 6/6/2019,2019-06-06,45000,Weather related,Flood,Flood
+PHL,Philippines,2019,Philippines: landslide - region vi/western visayas (antique) - 15/9/2019,2019-09-15,140,Weather related,Wet mass movement,"Landslide, avalanche"
+PHL,Philippines,2019,Philippines: tornado - abra - 9/8/2019,2019-08-09,35,Weather related,Storm,Tornado
+PHL,Philippines,2019,Philippines: flooding/landslides - davao (region xi) - 26/1/2019,2019-01-26,580000,Weather related,Flood,Flood
+PHL,Philippines,2019,"Japan; philippines; taiwan: tropical storm danas (locally ""falcon"") - 15/7/2019",2019-07-15,28000,Weather related,Storm,"Storm, tropical"
+PHL,Philippines,2019,"Philippines: storm - tacurong, sultan kudarat (region xii) - 9/4/2019",2019-04-09,560,Weather related,Storm,Storm
+PHL,Philippines,2019,Philippines: tornado - paluan (occidental mindoro) - 8/8/2019,2019-08-08,180,Weather related,Storm,Tornado
+PHL,Philippines,2019,Philippines: tornado - bulacan - 20/6/2019,2019-06-20,21,Weather related,Storm,Tornado
+PHL,Philippines,2019,Philippines: tropical depression marilyn - 14/9/2019,2019-09-13,13000,Weather related,Storm,"Storm, tropical, cyclone"
+PHL,Philippines,2019,Philippines: riverine flood (talomo river) - davao city (mindanao) - 28/8/2019,2019-08-28,17000,Weather related,Flood,Flood
+PHL,Philippines,2019,Philippines: flood - davao city (davao del sur) - 24/10/2019,2019-10-24,1200,Weather related,Flood,Flood
+PHL,Philippines,2019,Philippines: flash flood - south cotabato - 31/10/2019,2019-10-31,210,Weather related,Flood,Flash flood
+PHL,Philippines,2019,Philippines: storm - cagayan - 27/12/2019,2019-12-27,250,Weather related,Extreme temperature,"Exterme temp, severe winter conditions"
+PHL,Philippines,2019,"Philippines: northeast monsoon - cagayan valley, car - 04/12/2019",2019-12-04,179000,Weather related,Flood,Flood
+PHL,Philippines,2019,Philippines: storm - davao city (davao del sur) - 25/8/2019,2019-08-25,51,Weather related,Storm,Storm
+PHL,Philippines,2019,"Philippines, thailand, vietnam, lao pdr: tropical storm podul (jenny) - 24/8/2019",2019-08-24,4200,Weather related,Storm,"Storm, tropical"
+PHL,Philippines,2019,Philippines: earthquake - carrascal (surigao del sur) - 13/7/2019,2019-07-13,220,Geophysical,Earthquake,Earthquake
+PHL,Philippines,2019,Philippines: earthquake - itbayat (batanes) - 27/7/2019,2019-07-27,2400,Geophysical,Earthquake,Earthquake
+PHL,Philippines,2019,Philippines: flash flood - lapuyan city (zamboanga del sur) - 29/7/2019,2019-07-29,580,Weather related,Flood,Flash flood
+PHL,Philippines,2019,Philippines: flash flood - davao city (davao del sur) - 2/9/2019,2019-09-02,550,Weather related,Flood,Flash flood
+PHL,Philippines,2019,Philippines: tropical depression egay - zambales - 29/6/2019,2019-06-29,120,Weather related,Storm,"Storm, tropical"
+PHL,Philippines,2019,Philippines: flooding - midsayap (north cotabato) - 3/6/2019,2019-06-03,1000,Weather related,Flood,Flood
+PHL,Philippines,2019,Philippines: typhoon phanfone (ursula) - 6 regions - 19/12/2019,2019-12-19,567000,Weather related,Storm,"Storm, tropical, typhoon"
+PHL,Philippines,2019,Philippines: tornado - camarines sur - 21/5/2019,2019-05-21,830,Weather related,Storm,Tornado
+PHL,Philippines,2019,China; philippines; taiwan: tropical storm bailu (phl: ineng) - 20/8/2019,2019-08-20,3100,Weather related,Storm,"Storm, tropical"
+PHL,Philippines,2019,Philippines: tornado - western visayas (antique) - 6/11/2019,2019-11-06,93,Weather related,Storm,Tornado
+PHL,Philippines,2019,China; japan; south korea; philippines; taiwan: typhoon lekima (hanna) - 2/8/2019,2019-08-02,38000,Weather related,Storm,"Storm, tropical, typhoon"
+PHL,Philippines,2019,Philippines: tornado - negros occidental - 3/8/2019,2019-08-03,200,Weather related,Storm,Tornado
+PHL,Philippines,2019,"Philippines: tropical depression ""chedeng"" - 17/3/2019",2019-03-17,6700,Weather related,Storm,"Storm, tropical, cyclone"
+PHL,Philippines,2019,Philippines: flooding - caloocan city (ncr) - 24/6/2019,2019-06-24,88,Weather related,Flood,Flood
+PHL,Philippines,2019,Philippines: earthquake - north cotabato (tulunan) - 16/10/2019,2019-10-16,8300,Geophysical,Earthquake,Earthquake
+PHL,Philippines,2019,Philippines: tornado - marogong (lanao del sur) - 3/8/2019,2019-08-03,130,Weather related,Storm,Tornado
+PHL,Philippines,2019,"Philippines: tropical depression usman - calabarzon, mimaropa, region v, region viii - 28/12/2018",2018-12-28,552000,Weather related,Storm,"Storm, tropical, cyclone"
+PHL,Philippines,2019,Philippines; viet nam: typhoon nakri (quiel) - 04/11/2019,2019-11-04,31000,Weather related,Storm,"Storm, tropical, typhoon"
+PHL,Philippines,2019,Philippines: earthquake - north cotabato (tulunan) - 29/10/2019,2019-10-29,223000,Geophysical,Earthquake,Earthquake
+PHL,Philippines,2019,Philippines: tropical depression amang - caraga - 20/1/2019,2019-01-20,6200,Weather related,Storm,Storm
+PHL,Philippines,2019,Philippines: earthquake - davao del sur (matanao) - 15/12/2019,2019-12-15,167000,Geophysical,Earthquake,Earthquake
+PHL,Philippines,2019,Philippines: earthquake - makilala (north cotabato) - 9/7/2019,2019-07-09,760,Geophysical,Earthquake,Earthquake
+PHL,Philippines,2019,"Philippines: northeast monsoon - luzon, visayas - 14/1/2019",2019-01-14,1400,Weather related,Storm,Storm
+PHL,Philippines,2019,Philippines: effects of el nino (drought) - misamis oriental - 24/5/2019,2019-05-24,5400,Weather related,Drought,Drought
+PHL,Philippines,2019,Philippines: flooding - agusan del sur (caraga) - 26/1/2019,2019-01-27,1900,Weather related,Flood,Flood
+PHL,Philippines,2019,Philippines: earthquake - pampanga; zambales (region iii) - 22/4/2019,2019-04-22,9600,Geophysical,Earthquake,Earthquake
+PHL,Philippines,2019,Philippines: strong winds - baguio district (davao city) - 20/8/2019,2019-08-20,140,Weather related,Storm,Storm
+PHL,Philippines,2019,Philippines: tornado - mimaropa (occidental mindoro) - 18/9/2019,2019-09-18,47,Weather related,Storm,Tornado
+PHL,Philippines,2019,"Philippines: earthquake - san julian, eastern samar (region viii) - 23/4/2019",2019-04-23,4,Geophysical,Earthquake,Earthquake
+PHL,Philippines,2020,Philippines: strong wind - davao region (davao del sur/davao city) - 20/08/2020,2020-08-20,140,Weather related,Storm,Storm
+PHL,Philippines,2020,Philippines: flash flood - sultan kudarat (bagumbayan) - 14/09/2020,2020-09-14,25,Weather related,Flood,Flash flood
+PHL,Philippines,2020,Philippines: flood - western visayas (negros occidental) - 31/07/2020,2020-07-31,460,Weather related,Flood,Flood
+PHL,Philippines,2020,Philippines: flash flood - davao del sur (digos) - 28/06/2020,2020-06-28,1800,Weather related,Flood,Flash flood
+PHL,Philippines,2020,Philippines: flash flood - zamboanga (zamboanga sibugay) - 24/06/2020,2020-06-24,13,Weather related,Flood,Flash flood
+PHL,Philippines,2020,Philippines: flash flood - zamboanga (zamboanga sibugay) - 31/07/2020,2020-07-31,640,Weather related,Flood,Flash flood
+PHL,Philippines,2020,Philippines: flash flood - north cotabato (pigcawayan) - 17/10/2020 ,2020-10-17,680,Weather related,Flood,Flash flood
+PHL,Philippines,2020,"Philippines: effects of the tail end of a cold front - ilocos, cagayan valley - 09/11/2020",2020-11-09,4100,Weather related,Flood,Flash flood
+PHL,Philippines,2020,"Philippines: flooding incident in region vi - western visayas (capiz, iloilo) - 02/12/2020",2020-12-02,8500,Weather related,Flood,Flood
+PHL,Philippines,2020,"Philippines: flash flood - soccsksargen (region xii) (north cotabato, makilala) - 20/10/2020 ",2020-10-20,1500,Weather related,Flood,Flash flood
+PHL,Philippines,2020,Philippines: southwest monsoon enhanced by tropical storm leon - occidental mindoro (magsaysay) - 15/09/2020,2020-09-15,29,Weather related,Storm,"Storm, tropical"
+PHL,Philippines,2020,Philippines: tropical storm saudel (pepito) - 19/10/2020,2020-10-19,31000,Weather related,Storm,"Storm, tropical"
+PHL,Philippines,2020,"Philippines: flash flood - cagayan valley, car - 25/10/2020",2020-10-25,4900,Weather related,Flood,Flash flood
+PHL,Philippines,2020,Philippines: storm - south cotabato (surallah) - 11/08/2020,2020-08-11,20,Weather related,Storm,Storm
+PHL,Philippines,2020,Philippines: risk of landslides - cebu (cebu city) - october 2020,2020-10-14,760,Weather related,Wet mass movement,"Landslide, avalanche"
+PHL,Philippines,2020,Philippines: flooding - cebu - 04/10/2020,2020-10-04,800,Weather related,Flood,Flood
+PHL,Philippines,2020,"Philippines: flash flood and landlside - davao region (davao de oro, davao del norte, davao oriental) - 18/12/2020",2020-12-18,2100,Weather related,Flood,Flash flood
+PHL,Philippines,2020,Philippines: earthquake - bicol (masbate) - 18/08/2020,2020-08-18,1400,Geophysical,Earthquake,Earthquake
+PHL,Philippines,2020,"Philippines: flash flood - zamboanga del sur, zamboanga del norte - 17/10/2020",2020-10-17,8,Weather related,Flood,Flash flood
+PHL,Philippines,2020,Philippines: flash flood - north cotabato (kabacan) - 14/10/2020,2020-10-14,4300,Weather related,Flood,Flash flood
+PHL,Philippines,2020,"Philippines: tropical depression krovanh (""vicky "" phl) - davao, caraga - 18/12/2020",2020-12-18,93000,Weather related,Storm,"Storm, storm surge"
+PHL,Philippines,2020,Philippines: flash flood - south cotabato (koronadal) - 28/07/2020,2020-07-28,900,Weather related,Flood,Flash flood
+PHL,Philippines,2020,Philippines: typhoon vongfong (ambo) - 9 regions - 10/05/2020,2020-05-10,298000,Weather related,Storm,"Storm, tropical, typhoon"
+PHL,Philippines,2020,"Philippines, viet nam: typhoon molave (quinta (phl), storm 9 (vnm)) -  23/10/2020",2020-10-23,623000,Weather related,Storm,"Storm, tropical, typhoon"
+PHL,Philippines,2020,"Philippines, viet nam: typhoon vamco (ulysses in phl) - 08/11/2020",2020-11-08,1560000,Weather related,Storm,"Storm, tropical, typhoon"
+PHL,Philippines,2020,"Philippines, vietnam: typhoon goni (rolly phl, typhoon no.10 vnm) - countrywide (phl), south central coast (vnm) - 26/10/2020",2020-10-26,1250000,Weather related,Storm,"Storm, tropical, typhoon"
+PHL,Philippines,2020,Philippines: flash flood - central visayas (cebu) - 13/10/2020,2020-10-13,250,Weather related,Flood,Flash flood
+PHL,Philippines,2020,"Philippines: storm (north east monsoon) - western visaya (aklan, new washington) - 30/11/2020",2020-11-30,75,Weather related,Storm,Storm
+PHL,Philippines,2020,"Philippines: northeast monsoon enhanced by tropical depression “vicky” - cagayan valley (cagayan, isabella, quirino) - 20/12/2020 ",2020-12-20,11000,Weather related,Storm,Storm
+PHL,Philippines,2020,Philippines: soil erosion - lanao del sur (marawi city) - 2020 ,2020-08-09,4400,Weather related,Wet mass movement,Wet mass movement
+PHL,Philippines,2020,Philippines: flash flood - basilan (lamitan) - 15/10/2020,2020-10-15,8,Weather related,Flood,Flash flood
+PHL,Philippines,2020,Philippines: flash flood - davao del sur (davao city) -19/10/2020,2020-10-19,4100,Weather related,Flood,Flash flood
+PHL,Philippines,2020,"Philippines: tail-end of a frontal system (shear line)  - cagayan valley (cagayan, isabela, quirino) - 28/11/2020",2020-11-28,1100,Weather related,Storm,Storm
+PHL,Philippines,2020,"Philippines: tropical depression ofel - calabarzon, bicol, central visayas - 13/10/2020",2020-10-13,6400,Weather related,Storm,"Storm, convective"
+PHL,Philippines,2020,Philippines: flash flood - zamboanga (zamboanga city) - 15/09/2020,2020-09-15,270,Weather related,Flood,Flash flood
+PHL,Philippines,2020,Philippines: flash flood - sultan kudarat (palimbang) - 15/09/2020 ,2020-09-15,2100,Weather related,Flood,Flash flood
+PHL,Philippines,2020,Philippines: flash flood - zamboanga - 09/08/2020,2020-08-09,170,Weather related,Flood,Flash flood
+PHL,Philippines,2020,Philippines: flooding incident in cebu province due to lpa - 02/12/2020,2020-12-02,11000,Weather related,Flood,Flood
+PHL,Philippines,2020,Philippines: flash flood - davao (davao de oro) - 13/08/2020,2020-08-13,1600,Weather related,Flood,Flash flood
+PHL,Philippines,2020,Philippines: flash flood - davao del sur (davao city) - 04/08/2020,2020-08-04,930,Weather related,Flood,Flash flood
+PHL,Philippines,2020,Philippines: flood - culasi (antique) - 15/09/2020,2020-09-15,30,Weather related,Flood,Flood
+PHL,Philippines,2020,Philippines: tornado - pangasinan (bayambang) - 27/04/2020,2020-04-27,100,Weather related,Storm,Tornado
+PHL,Philippines,2020,Philippines: tornado - pangasinan (basista) - 14/05/2020,2020-05-14,50,Weather related,Storm,Tornado
+PHL,Philippines,2020,Philippines: tornado - sultan kudarat (president quirino) - 07/06/2020,2020-06-07,130,Weather related,Storm,Tornado
+PHL,Philippines,2020,Philippines: tornado - bulacan (pulilan) - 06/07/2020,2020-07-06,25,Weather related,Storm,Tornado
+PHL,Philippines,2020,Philippines: tornado - car (ifugao) - 14/05/2020,2020-05-14,8,Weather related,Storm,Tornado
+PHL,Philippines,2020,Philippines: tornado - sultan kudarat (lambayong) - 22/09/2020,2020-09-22,80,Weather related,Storm,Tornado
+PHL,Philippines,2020,Philippines: whirlwind - misamis occidental (tudela) - 05/08/2020,2020-08-05,460,Weather related,Storm,Tornado
+PHL,Philippines,2020,"Philippines: tornado, western visayas (antique, san jose) - 06/11/2020",2020-11-06,93,Weather related,Storm,Tornado
+PHL,Philippines,2020,Philippines: dry mass movement - negros occidental (bago) -  24/06/2020,2020-06-24,76,Geophysical,Dry mass movement,Dry mass movement
+PHL,Philippines,2021,Philippines; palau: typhoon surigae/bising - countrywide - 12/04/2021,2021-04-12,152000,Weather related,Storm,"Storm, tropical, typhoon"
+PHL,Philippines,2021,"Philippines, palau, viet nam: typhoon rai (locally known as odette) - 9 regions (phl), countrywide (plw), quang ngai, quang nam nd phu yen (vnm) - 11/12/2021",2021-12-11,3915000,Weather related,Storm,"Storm, tropical, typhoon"
+PHL,Philippines,2021,"Philippines: flood - visayas (negros occidental/city of escalante,sagay city) - 14/02/2021",2021-02-14,240,Weather related,Flood,Flood
+PHL,Philippines,2021,Philippines: flood [effects of shear line] - region viii - 11/12/2021,2021-12-11,1900,Weather related,Flood,Flood
+PHL,Philippines,2021,Philippines: flood - western visaya (negros occidental/talisay) - 07/02/2021,2021-02-07,280,Weather related,Flood,Flood
+PHL,Philippines,2021,Philippines: flood - eastern visayas (4 provinces) - 10/01/2021,2021-01-10,14000,Weather related,Flood,Flood
+PHL,Philippines,2021,Philippines: strong wind - south cotabato (tupi) - 28/06/2021,2021-06-28,4,Weather related,Storm,Storm
+PHL,Philippines,2021,"Philippines: storm - caraga (dinagat island, surigao del norte) - 13/01/2021",2021-01-13,1900,Weather related,Storm,Storm
+PHL,Philippines,2021,Philippines: storm - south cotabato (tupi) - 07/05/2021,2021-05-07,63,Weather related,Storm,Storm
+PHL,Philippines,2021,Philippines: whirlwind - marawi city - 02/05/2021,2021-05-02,85,Weather related,Storm,Storm
+PHL,Philippines,2021,Philippines: strong winds - zamboanga sibugay (olutanga) - 27/06/2021,2021-06-27,150,Weather related,Storm,Storm
+PHL,Philippines,2021,Philippines: strong wind - south cotabato (surallah) - 30/06/2021,2021-06-30,10,Weather related,Storm,Storm
+PHL,Philippines,2021,"Philippines: storm - davao (davao del norte/talaingod, santo tomas) - 14/02/2021",2021-02-14,1400,Weather related,Storm,Storm
+PHL,Philippines,2021,Philippines: storm - mimaropa (oriental mindonoro and palawan) - 01/01/2021,2021-01-01,330,Weather related,Storm,Storm
+PHL,Philippines,2021,Philippines: flood - caraga - 03/12/2021,2021-12-03,1300,Weather related,Flood,Flood
+PHL,Philippines,2021,Philippines: flood - caraga - 05/12/2021,2021-12-05,590,Weather related,Flood,Flood
+PHL,Philippines,2021,Philippines: flood [lpa] - region x - 15/11/2021,2021-11-15,2100,Weather related,Flood,Flood
+PHL,Philippines,2021,Philippines: flood [northeast monsoon] - mimaropa - 27/12/2021,2021-12-27,4200,Weather related,Flood,Flood
+PHL,Philippines,2021,Philippines: flood - region viii - 08/02/2021,2021-02-08,36000,Weather related,Flood,Flood
+PHL,Philippines,2021,Philippines: flood [itcz] - region xi - 25/10/2021,2021-10-25,310,Weather related,Flood,Flood
+PHL,Philippines,2021,Philippines: flood [low pressure area] - mimaropa - 06/11/2021,2021-11-06,140,Weather related,Flood,Flood
+PHL,Philippines,2021,Philippines: flood - region xi - 09/10/2021,2021-10-09,6300,Weather related,Flood,Flood
+PHL,Philippines,2021,Philippines: flood [itcz] - mimaropa - 13/11/2021,2021-11-13,300,Weather related,Flood,Flood
+PHL,Philippines,2021,Philippines: flood [lpa] - region vi - 05/11/2021,2021-11-05,7500,Weather related,Flood,Flood
+PHL,Philippines,2021,Philippines: flood - region vi (capiz and negros occidental) - 08/01/2021,2021-01-08,27000,Weather related,Flood,Flood
+PHL,Philippines,2021,Philippines: flood [effect of lpa along itcz] - mimaropa and region vi - 24/10/2021,2021-10-24,2500,Weather related,Flood,Flood
+PHL,Philippines,2021,"Philippines: flood [southwest monsoon] - ncr, region i, iii, vi, mimaropa and car - 29/07/2021",2021-07-29,293000,Weather related,Flood,Flood
+PHL,Philippines,2021,"China, hong kong, macau, philippines, taiwan, viet nam: tropical cyclone kompasu (locally known as maring) - fujian (chn), countrywide (hkg), countrywide (mac), 7 regions (phl), yilan and hualien (twn), yen bai (vnm) - 10/10/2021",2021-10-10,421000,Weather related,Storm,"Storm, tropical, cyclone"
+PHL,Philippines,2021,"Hong kong, macau, philippines: tropical cyclone lionrock (locally known as lannie) - countrywide - 04/10/2021",2021-10-04,8000,Weather related,Storm,"Storm, tropical, cyclone"
+PHL,Philippines,2021,"Philippines, viet nam: tropical cyclone conson (locally known as jolina) - 8 regions (phl), 11 provinces (vnm) - 06/09/2021",2021-09-06,149000,Weather related,Storm,"Storm, tropical, cyclone"
+PHL,Philippines,2021,Philippines: tornado - iloilo (lambunao) - 25/06/2021,2021-06-25,270,Weather related,Storm,Tornado
+PHL,Philippines,2021,Philippines: threat of flashflood - north cotabato (alamada) - 22/05/2021,2021-05-22,1200,Weather related,Flood,Flash flood
+PHL,Philippines,2021,Philippines: flash flood - south cotabato (tantangan) - 11/06/2021,2021-06-11,650,Weather related,Flood,Flash flood
+PHL,Philippines,2021,"Philippines: flash flood - soccskargen (cotabato/ makilala, m'lang) - 10/04/2021",2021-04-10,230,Weather related,Flood,Flash flood
+PHL,Philippines,2021,Philippines: flash flood - sultan kudarat - 27/06/2021,2021-06-27,280,Weather related,Flood,Flash flood
+PHL,Philippines,2021,Philippines: flashflood - northern mindanao (bukidnon/talakag/2 barangays) - 17/02/2021,2021-02-17,190,Weather related,Flood,Flash flood
+PHL,Philippines,2021,Philippines: flashflood - soccsksargen  (south cotabato/general santos) - 13/02/2021,2021-02-13,400,Weather related,Flood,Flash flood
+PHL,Philippines,2021,"Philippines: flash flood - region x (camiguin, lanao del norte and misamis oriental) - 13/01/2021",2021-01-13,7100,Weather related,Flood,Flash flood
+PHL,Philippines,2021,Philippines: flash flood - region xii - 15/07/2021,2021-07-15,330,Weather related,Flood,Flash flood
+PHL,Philippines,2021,Philippines: flash flood - region x (misamis oriental) - 13/07/2021,2021-07-13,140,Weather related,Flood,Flash flood
+PHL,Philippines,2021,Philippines: flash flood [southwest monsoon] - region vi and mimaropa - 12/10/2021,2021-10-12,34000,Weather related,Flood,Flash flood
+PHL,Philippines,2021,Philippines: flash flood - region vii - 25/10/2021,2021-10-25,400,Weather related,Flood,Flash flood
+PHL,Philippines,2021,Philippines: flash flood - region vi (antique) - 16/09/2021,2021-09-16,420,Weather related,Flood,Flash flood
+PHL,Philippines,2021,"Philippines: flash flood - northern mindanao (lanao del norte/bacolod,kauswagan) - 11/03/2021",2021-03-11,5600,Weather related,Flood,Flash flood
+PHL,Philippines,2021,Philippines: flash flood - region xii - 11/11/2021,2021-11-11,5,Weather related,Flood,Flash flood
+PHL,Philippines,2021,Philippines: flash flood - region x - 27/10/2021,2021-10-27,1700,Weather related,Flood,Flash flood
+PHL,Philippines,2021,Philippines: flash flood - south cotabato (lake sebu) - 16/06/2021,2021-06-16,280,Weather related,Flood,Flash flood
+PHL,Philippines,2021,Philippines: tornado - iloilo (pototan) - 28/05/2021,2021-05-28,66,Weather related,Storm,Tornado
+PHL,Philippines,2021,Philippines: tornado - pangasinan (asingan) - 23/05/2021,2021-05-23,89,Weather related,Storm,Tornado
+PHL,Philippines,2021,Philippines: tornado - cordillera administrative region (abra) - 21/05/2021,2021-05-21,4,Weather related,Storm,Tornado
+PHL,Philippines,2021,Philippines: whirlwind - north cotabato (kabacan) - 31/08/2021,2021-08-31,90,Weather related,Storm,Tornado
+PHL,Philippines,2021,Philippines: tornado - region vi (molo district) - 05/05/2021,2021-05-06,120,Weather related,Storm,Tornado
+PHL,Philippines,2021,"Philippines: tropical storm dujuan (locally known as auring) - region x, xi and caraga - 17/02/2021",2021-02-17,232000,Weather related,Storm,"Storm, tropical"
+PHL,Philippines,2021,Philippines: coastal flood - region xi - 10/10/2021,2021-10-10,2000,Weather related,Flood,Coastal flood
+PHL,Philippines,2021,"Philippines: tropical storm ""dante"" / ""choi-wan"" - 10 regions - 31/05/2021",2021-05-31,50000,Weather related,Storm,"Storm, tropical"
+PHL,Philippines,2021,"Philippines: tropical storm ""crising"" - regions ix and xi - 13/05/2021",2021-05-13,14000,Weather related,Storm,"Storm, tropical"
+PHL,Philippines,2021,Philippines: riverine flood - south cotabato (lake sebu town) - 27/05/2021,2021-05-27,100,Weather related,Flood,Riverine flood
+PHL,Philippines,2021,Philippines: riverine flood - zamboanga peninsula (zamboanga del sur/zamboanga city) - 19/01/2021,2021-01-19,570,Weather related,Flood,Riverine flood
+PHL,Philippines,2021,Philippines: thunderstorm - cordillera administrative region (apayo/santa marcela) - 25/02/2021,2021-02-25,80,Weather related,Storm,Thunderstorm
+PHL,Philippines,2021,Philippines: tension cracks - region vi (antique) - 10/06/2021,2021-06-10,310,Geophysical,Dry mass movement,"Mass movement, landslide"
+PHL,Philippines,2021,Philippines: ground tensions - sultan kudarat (lake sebu) - 13/06/2021,2021-06-13,600,Geophysical,Dry mass movement,"Mass movement, landslide"
+PHL,Philippines,2021,Philippines: earthquake - davao del sur (kidapawan city) - 07/02/2021,2021-02-07,270,Geophysical,Earthquake,Earthquake
+PHL,Philippines,2021,Philippines: earthquake - bukidnon (kadingilan) - 14/06/2021,2021-06-14,120,Geophysical,Earthquake,Earthquake
+PHL,Philippines,2021,Philippines: earthquake - davao (davao del sur) - 07/02/2021,2021-02-07,480,Geophysical,Earthquake,Earthquake
+PHL,Philippines,2021,Philippines: storm [monsoon trough] - regions vii and xii - 09/06/2021,2021-06-09,8600,Weather related,Storm,"Storm, storm surge"
+PHL,Philippines,2021,Philippines: storm surge - barmm - 14/01/2021,2021-01-14,270,Weather related,Storm,"Storm, storm surge"
+PHL,Philippines,2021,Philippines: landslide - region vi (antique) - 10/09/2021,2021-09-10,200,Weather related,Wet mass movement,Wet mass movement
+PHL,Philippines,2021,Philippines: thunderstorm - regions ix and xii - 17/05/2021,2021-05-17,2100,Weather related,Storm,Thunderstorm
+PHL,Philippines,2021,Philippines: landslide - isabela (benito solivan) - 09/06/2021,2021-06-09,71,Weather related,Wet mass movement,"Landslide, avalanche"
+PHL,Philippines,2021,Philippines: landslide - western visayas (antique) - 19/07/2021,2021-07-19,10,Weather related,Wet mass movement,"Landslide, avalanche"
+PHL,Philippines,2021,Philippines: flood - davao del sur (davao city) - 09/07/2021,2021-07-09,600,Weather related,Flood,Flood
+PHL,Philippines,2021,Philippines: flood - region x - 11/04/2021,2021-04-11,85,Weather related,Flood,Flood
+PHL,Philippines,2021,Philippines: flood - region vi (negros occidental) - 05/06/2021,2021-06-05,1900,Weather related,Flood,Flood
+PHL,Philippines,2021,Philippines: flood - region xi (davao del sur) - 26/04/2021,2021-04-26,630,Weather related,Flood,Flood
+PHL,Philippines,2021,Philippines: flood - davao (davao del sur/davao city) - 15/01/2021,2021-01-15,910,Weather related,Flood,Flood
+PHL,Philippines,2021,Philippines: flood - davao del sur (davao city) - 13/07/2021,2021-07-13,600,Weather related,Flood,Flood
+PHL,Philippines,2021,"Philippines: flood - sulu province (patikul, parang and jolo municipalities) - 17/01/2021",2021-01-17,1600,Weather related,Flood,Flood
+PHL,Philippines,2021,Philippines: flood - south cotabato (general santos city) - 18/05/2021,2021-05-18,590,Weather related,Flood,Flood
+PHL,Philippines,2021,Philippines: flood - region xi (zamboanga city) - 19/05/2021,2021-05-19,7700,Weather related,Flood,Flood
+PHL,Philippines,2021,Philippines: flood - butuan city - 25/05/2021,2021-05-25,1200,Weather related,Flood,Flood
+PHL,Philippines,2021,Philippines: flood - western visayas (aklan/5 municipalities) - 13/03/2021,2021-03-13,1200,Weather related,Flood,Flood
+PHL,Philippines,2021,Philippines: flood [intertropical convergence zone] - region vi - 20/09/2021,2021-09-20,2200,Weather related,Flood,Flood
+PHL,Philippines,2021,Philippines: flood [southwest monsoon] - region iii and mimaropa - 10/09/2021,2021-09-10,600,Weather related,Flood,Flood
+PHL,Philippines,2021,Philippines: flood [itcz] - region ix - 16/11/2021,2021-11-16,5300,Weather related,Flood,Flood
+PHL,Philippines,2021,Philippines: typhoon - camiguin (mahinog) - 01/06/2021,2021-06-01,57,Weather related,Storm,"Storm, tropical, typhoon"
+PHL,Philippines,2021,"China, philippines, taiwan: typhoon ""in-fa"" / ""fabian "" - 9 provinces (chn), 8 regions (phl),  new taipei, taoyuan and hsinchu (twn) - 14/07/2021",2021-07-14,215000,Weather related,Storm,"Storm, tropical, typhoon"
+PHL,Philippines,2021,"China, korea, philippines, taiwan: typhoon chanthu (locally known as kiko) - shanghai (chn), jeollanam-do (kor), region i, ii and car (phl), 10 counties (twn) - 07/09/2021",2021-09-05,7700,Weather related,Storm,"Storm, tropical, typhoon"
+PHL,Philippines,2009,Mount mayon,2009-01-01,50000,Geophysical,Volcanic activity,Volcanic eruption
+PHL,Philippines,2011,Bulusan,2011-01-01,2000,Geophysical,Volcanic activity,Volcanic eruption
+PHL,Philippines,2014,Mayon volcano,2014-09-19,50000,Geophysical,Volcanic activity,Volcanic eruption
+PHL,Philippines,2018,Philippines: volcano (mayon) - albay (region v) - 13/1/2018,2018-01-13,91000,Geophysical,Volcanic activity,Volcanic eruption
+PHL,Philippines,2020,"Philippines: volcanic eruption (mount taal) - calabarzon, ncr, central luzon, mimaropa - 12/01/2020",2020-01-12,506000,Geophysical,Volcanic activity,Volcanic eruption
+PHL,Philippines,2021,"Philippines: volcanic eruption ""taal"" -  calabarzon (batangas) - 01/07/2021",2021-07-01,22000,Geophysical,Volcanic activity,Volcanic eruption
+PHL,Philippines,2021,"Philippines: volcanic eruption ""taal""- luzon (batangas/calabarzon/taal volcano island) - 15/02/2021",2021-02-13,200,Geophysical,Volcanic activity,Volcanic eruption
