@@ -1,0 +1,1 @@
+print([x for x in range(1880, 2030, 10)])
